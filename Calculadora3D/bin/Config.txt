@@ -1,0 +1,2 @@
+C:\Program Files\Ultimaker Cura 4.4\Cura.exe
+true
